@@ -142,3 +142,15 @@
 # print("Nimesi on " + henkilo + " ja kengän kokosi on " + kenka)
 
  # T1 - 13 Oma koodi
+print("Tervetuloa metsään.. mihin olet eksynyt.")
+nimi = input("Jos muistat, mikä on nimesi? ")
+print("\nHei " + nimi + "! Olet tosijaa iha eksyny tänne mettää.")
+valinta1 = input("Valitte suunta (vasen/oikea)")
+
+if valinta1 == "vasen":
+    print("\nMeet sitte vasemmalle. Vasemmalta löytyi metsää.")
+
+elif valinta1 == "oikea":
+    print("\nOikealta löytyi lisää metsää")
+    
+valinta2 = input("Valitte suunta (kiipeä puuhun/eteenpäin)")
