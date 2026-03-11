@@ -221,3 +221,26 @@
 #
 #     if hp <= 0:
 #         exit()
+
+ # T14
+# ika = "5"
+# print("Muuttujassa ika on arvo " + ika)
+
+ # T15
+# omena = 3
+# banaani = 2
+# print((omena == 3) and (banaani == 2))
+#
+# omena1 = 3
+# banaani1 = 2
+# print((omena == 3) or (banaani == 2))
+#
+# omena2 = 5
+# banaani2 = 2
+# print((omena == 5) and (banaani == 2))
+#
+# omena3 = 3
+# banaani3 = 2
+# print((omena == 2) and (banaani == 5))
+
+  # T16
